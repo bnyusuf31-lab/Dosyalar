@@ -1,0 +1,2 @@
+# Dosyalar
+.ts dosyaları,vb.
