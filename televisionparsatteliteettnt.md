@@ -24,7 +24,7 @@
 24	RMC Découverte
 25	RMC Life	
 26	Paris Premiere
-27	TNT info card	
+27	LMtv Sarthe	
 28	Banijay Mr Bean
 29	FIFA French
 30	Angers Télé
@@ -49,7 +49,7 @@
 49	BFM Normandie
 50	Via Stella
 51	LDV Média
-52	LMtv Sarthe
+52	France 2 UHD
 53	Moselle TV
 54	TébéSud
 55	Le Figaro TV Île-de-France
