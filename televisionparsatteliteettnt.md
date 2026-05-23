@@ -23,7 +23,7 @@
 23	RMC Story	
 24	RMC Découverte
 25	RMC Life	
-26	Fransat Ultra HD promo
+26	Paris Premiere
 27	TNT info card	
 28	Banijay Mr Bean
 29	FIFA French
@@ -61,7 +61,7 @@
 61	TG+
 62	13e Rue
 63	AB1
-64	Paris Premiere
+64	France TV Sport
 65,After Foot TV
 66,Auto Plus TV
 67,Automoto La Chaîne
